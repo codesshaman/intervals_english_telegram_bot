@@ -28,7 +28,7 @@ async def schedule_message(bot, group, message, schedule_time):
 
     try:
         await bot.send_message(group, message, parse_mode="MarkdownV2")
-        print(f"Сообщение отправлено: {message}")
+        print(f"Сообщение отправлено: {message[:20]}")
     except Exception as e:
         print(f"Ошибка при отправке сообщения: {e}")
 

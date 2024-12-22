@@ -41,7 +41,7 @@ with open(csv_file, "r") as file:
             file_r_txt = f"file_{file_number}r.txt"
 
             # Формируем новое время
-            new_datetime = base_datetime + timedelta(minutes=10 * i * 2)  # Увеличение на 10 минут
+            new_datetime = base_datetime + timedelta(minutes=1 * i * 2)  # Увеличение на 10 минут
 
             # Обрабатываем обычный файл (без 'r')
             if os.path.exists(os.path.join(input_dir, file_txt)):
