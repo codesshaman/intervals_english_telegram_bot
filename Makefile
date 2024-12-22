@@ -45,6 +45,8 @@ help:
 	@echo -e "$(WARN_COLOR)- make install				: Install library in pip"
 	@echo -e "$(WARN_COLOR)- make freeze				: Libraryes list"
 	@echo -e "$(WARN_COLOR)- make push				: Push to the repository"
+	@echo -e "$(WARN_COLOR)- make service				: Create systemd service"
+	@echo -e "$(WARN_COLOR)- make timer				: Create systemd timer"
 	@echo -e "$(WARN_COLOR)- make clean				: Clean applicatin cache"
 	@echo -e "$(WARN_COLOR)- make fclean				: Remove virtual environment"
 
@@ -82,6 +84,12 @@ req:
 		echo "Команда для создания:"; \
 		echo "make venv"; \
 	fi
+
+service:
+	@bash scripts/create_service.sh
+
+timer:
+	@bash scripts/create_timer.sh
 
 clean:
 	@printf "$(ERROR_COLOR)==== Cleaning cache ${name}... ====$(NO_COLOR)\n"

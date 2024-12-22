@@ -11,6 +11,10 @@ load_dotenv()
 token = os.getenv("token")
 group = os.getenv("group")
 
+
+# Получаем путь к директории, где находится текущий скрипт
+script_dir = os.path.dirname(os.path.realpath(__file__))
+
 # Функция для экранирования текста в формате MarkdownV2, кроме скрытого текста
 def escape_markdown_v2(text):
     """Экранирует символы MarkdownV2 для безопасной отправки в Telegram, кроме скрытого текста."""
@@ -34,7 +38,7 @@ async def schedule_message(bot, group, message, schedule_time):
 
 async def process_files():
     """Обрабатывает файлы из директории .msgs, отправляет сообщения и перемещает файлы."""
-    input_dir = "./.msgs"
+    input_dir = script_dir + "/.msgs"
     old_dir = os.path.join(input_dir, "old")
 
     # Инициализируем бота
