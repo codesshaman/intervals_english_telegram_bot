@@ -12,6 +12,15 @@ group = os.getenv("group")
 # Инициализация бота
 bot = Bot(token)
 
+async def test():
+    try:
+        await bot.send_message(group, "Проверка соединения!")
+        print("Сообщение отправлено успешно.")
+    except Exception as e:
+        print(f"Ошибка: {e}")
+    finally:
+        await bot.session.close()
+
 # Функция для экранирования текста в формате MarkdownV2, кроме скрытого текста
 def escape_markdown_v2(text):
     """Экранирует символы MarkdownV2 для безопасной отправки в Telegram, кроме скрытого текста."""
@@ -29,7 +38,7 @@ def send_message_sync(bot, group, message):
 def send_messages_from_directory():
     """Получает файлы из директории и отправляет их содержимое как сообщения."""
     # Путь к директории
-    directory = input("Введите путь к директории (по умолчанию ./msgs): ").strip() or "./msgs"
+    directory = input("Введите путь к директории (по умолчанию ./.msgs): ").strip() or "./.msgs"
     
     if not os.path.exists(directory):
         print(f"Директория '{directory}' не найдена.")

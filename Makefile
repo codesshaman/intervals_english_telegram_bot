@@ -18,7 +18,7 @@ WARN_COLOR=\033[33;01m	# Warning yellow
 
 all:
 	@printf "Launch configuration ${name}...\n"
-	$(PYTHON) main.py
+	$(PYTHON) schedule_message.py
 
 env:
 	@printf "$(ERROR_COLOR)==== Create environment file for ${name}... ====$(NO_COLOR)\n"
