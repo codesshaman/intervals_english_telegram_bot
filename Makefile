@@ -14,7 +14,7 @@ ERROR_COLOR=\033[31;01m	# Error red
 WARN_COLOR=\033[33;01m	# Warning yellow
 
 
-# git clone github-repo:codesshaman/telegram_messages_sendler_bot.git
+# git clone github-repo:codesshaman/intervals_english_telegram_bot.git
 
 all:
 	@printf "Launch configuration ${name}...\n"
