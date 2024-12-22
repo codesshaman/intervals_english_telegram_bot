@@ -32,7 +32,7 @@ freeze:
 
 git:
 	@printf "$(YELLOW)==== Set user name and email to git for ${name} repo... ====$(NO_COLOR)\n"
-	@bash gituser.sh
+	@bash scripts/gituser.sh
 
 help:
 	@echo -e "$(OK_COLOR)==== All commands of ${name} configuration ====$(NO_COLOR)"
@@ -71,7 +71,7 @@ venv:
     fi
 
 push:
-	@bash push.sh
+	@bash scripts/push.sh
 
 req:
 	@printf "$(OK_COLOR)==== Install python requirements ====$(NO_COLOR)\n"
