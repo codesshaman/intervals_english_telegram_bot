@@ -1,24 +1,24 @@
 
-Учим #Карточку_60
+Учим #Карточку_3
 
 RUS -> ENG
 
-noun ||sexy||	/||ˈsɛksi||/	сексуальный, классный	I want a sexy little convertible.
+adj. ||right||	/||ˈraɪt||/	правый; правильный; надлежащий	Whoever drew this got it exactly right.
 
-verb ||agree||	/||əˈgri||/  	соглашаться	You agreed to buy that boat.
+adv. ||then||	/||ˈðɛn||/	затем, тогда	Okay, well, then, all right.
 
-adj. ||white||	/||ˈwaɪt||/  	белый	I can't take the big, white dog.
+verb ||talk||	/||ˈtɔk||/	говорить	Two sisters talking about real stuff.
 
-noun ||bird||	/||ˈbɝd||/    	птица	Tell us what happened, Brown Bird Ross.
+verb ||look||	/||ˈlʊk||/	смотреть	I think the tree looks nice.
 
-noun ||rock||	/||ˈrɑk||/    	рок	Singing in a punk rock band.
+verb ||need||	/||ˈnid||/	нуждаться	We're just gonna need a little time.
 
-adj. ||black||	/||ˈblæk||/  	чёрный	They're just numbers, and boring, and black.
+verb ||guy||	/||ˈgaɪ||/	парни, ребята	Okay guys, just relax.
 
-verb ||dress||	/||ˈdrɛs||/  	одеваться	She's just getting dressed now.
+adj. ||little||	/||ˈlɪtəl||/	маленький	Tiny little crack in her pelvis.
 
-verb ||allow||	/||əˈlaʊ||/  	позволять	I'm not allowed to accept tips, buddy.
+verb ||give||	/||ˈgɪv||/	давать	Okay, just give it a shot.
 
-p.v. ||move on||	       	    продолжать движение; двигаться дальше; сменить тему 	Okay, okay, moving on, moving on.
+adv. ||too||	/||ˈtu||/	тоже	Your knuckles are kind of hairy too.
 
-p.v. ||end up||	        	заканчивать(ся); завершать(ся)   	Jeff’s dog ended up as ring bearer.
+p. v. ||come on||		начинаться; давай!; пошли!	Come on buddy, use words.

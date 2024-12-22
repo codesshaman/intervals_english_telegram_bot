@@ -1,23 +1,24 @@
-Учим #Карточку_111
 
-ENG -> RUS
+Учим #Карточку_9
 
-adv. ||near||	/||ˈnɪr||/    	около	No drinks near the bucket.
+RUS -> ENG
 
-noun ||attack||	/||əˈtæk||/ 	нападение	So I'm blowing my attack whistle thingy and three more cabs show up.
+verb ||meet||	/||ˈmit||/	встречаться	Do you remember when we met?
 
-adj. ||difficult||	/||ˈdɪfəkəlt||/	трудный	Well that puts me in a difficult position.
+verb ||use||	/||ˈjuz||/	использовать	I thought I could use this bag.
 
-adv. ||often||	/||ˈɔftən||/	часто	Often times, you find them on strippers.
+verb ||help||	/||ˈhɛlp||/	помогать	And no one could help me.
 
-verb ||arrest||	/||ɝˈɛst||/ 	арестовывать	Maybe, uh, I don't arrest you today.
+verb ||guess||	/||ˈgɛs||/	догадываться; полагать	I guess I just got scared.
 
-verb ||fail||	/||ˈfeɪl||/   	терпеть неудачу	Sometimes you just fail.
+verb ||listen||	/||ˈlɪsən||/	слушать	Listen, I really need your help.
 
-verb ||clear||	/||ˈklɪr||/  	очищать; прояснять	Yeah, well this certainly clears things up.
+adj. ||bad||	/||ˈbæd||/	плохой	Bad move, Aldrin, bad move.
 
-adj. ||past||	/||ˈpæst||/   	прошлый; минувший	What's crazy is throwing away the past three years.
+adv. ||together||	/||təˈgɛðɝ||/	вместе	You know, push the words together.
 
-noun ||field||	/||ˈfild||/  	поле	You know, sure, playing the field is great.
+adj. ||better||	/||ˈbɛtɝ||/	лучше 	Hope the baby feels better.
 
-noun ||hooker||	/||ˈhʊkɝ||/ 	проститутка	Rex was sticking it to that hooker housewife.
+adv. ||always||	/||ˈɔˌlweɪz||/	всегда	My body always stays cool.
+
+noun ||place||	/||ˈpleɪs||/	место	I’ve never had a place of my own.

@@ -1,24 +1,23 @@
+Учим #Карточку_11
 
-Учим #Карточку_68
+ENG -> RUS
 
-RUS -> ENG
+noun ||room||	/||ˈrum||/	комната	That’s a nice room!
 
-adv. ||right||	/||ˈraɪt||/  	прямо 	Michael's in there right now evaluating the temp.
+adj. ||other||	/||ˈʌðɝ||/	другой	The other times were just for fun.
 
-adv. ||inside||	/||ˌɪˈnsaɪd||/	внутри	I just assumed you were dead inside.
+adv. ||only||	/||ˈoʊnli||/	только; исключительно	I want only good things for you.
 
-noun ||prison||	/||ˈprɪzən||/	тюрьма	That is quite the rap sheet, Prison Mike.
+noun ||name||	/||ˈneɪm||/	имя, название	Maybe she used a second fake name.
 
-noun ||gun    ||	/||ˈgʌn||/     	пистолет	He really pulled out the big guns.
+adj. ||pretty||	/||ˈprɪti||/	довольно-таки; симпатичный	Twenty percent is a pretty generous tip.
 
-adj. ||romantic||	/||roʊˈmæntɪk||/	романтический	Make the funeral very romantic.
+adv. ||tonight||	/||təˈnaɪt||/	сегодня вечером (реже – ночью)	Although pickings are pretty slim tonight.
 
-noun ||coat   ||	/||ˈkoʊt||/    	пальто	Let me just get my coat.
+adj. ||late||	/||ˈleɪt||/	поздний, опоздавший	Oh god, I’ll be late again!
 
-noun ||cheese||	/||ˈtʃiz||/	    сыр	The sausage, egg and cheese biscuit.
+verb ||live||	/||ˈlɪv||/	жить	I don’t know how she can live like this.
 
-noun ||hotel||	/||hoʊˈtɛl||/	отель	Fancy hotel ballroom, everybody all dressed up.
+noun ||date||	/||ˈdeɪt||/	дата; свидание	Did you end up going on a date?
 
-p. v. ||come with||		поставляются с; включать в Comes with a shampoo and blow dry. себя
-
-noun ||interview||	/||ˈɪntɝˌvju||/	 интервью Oh, right, your adoption interview.
+adv. ||today||	/||təˈdeɪ ||/	сегодня	I called the bank today.

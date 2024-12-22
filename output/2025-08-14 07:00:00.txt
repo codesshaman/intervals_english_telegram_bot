@@ -1,23 +1,24 @@
-Учим #Карточку_109
 
-ENG -> RUS
+Учим #Карточку_7
 
-adj. ||living||	/||ˈlɪvɪŋ||/	живой	It's a living organism, an ever-changing tapestry.
+RUS -> ENG
 
-noun ||slap||	/||ˈslæp||/	шлепок	The ultimate wager slap bet.
+verb ||believe||	/||bɪˈliv||/	верить	Believe me, it'll never happen again.
 
-noun ||sock||	/||ˈsɑk||/	носок	The tea candles, the sock monkeys.
+verb ||find||	/||ˈfaɪnd||/	находить	I think you'll find very exciting.
 
-noun ||appointment||	/||əˈpɔɪntmənt||/	прием; назначение	Doctor's appointments, you're driving.
+verb ||work||	/||ˈwɝk||/	работать	I got to go and work.
 
-noun ||potato||	/||pəˈteɪˌtoʊ||/	картофель	Cranberry juice, potato vodka, and a bouillon cube.
+adv. ||actually||	/||ˈæˌktʃuəli||/	на самом деле	Actually, you look kinda nice.
 
-adj. ||wrong||	/||ˈrɔŋ||/	неправильный	Maybe my ruler's wrong.
+adv. ||even||	/||ˈivɪn||/	даже	She even paid for drinks. Sort of.
 
-adj. ||trick||	/||ˈtrɪk||/	с подвохом	Okay, maybe it was a trick question.
+verb ||hear||	/||ˈhir||/	слышать	I've never heard him make that sound.
 
-noun ||cash||	/||ˈkæʃ||/	наличные	Carlos, we're not exactly flush with cash right now.
+noun ||girl||	/||ˈgɝl||/	девочка; девушка	Little girl misses her cat.
 
-verb ||fit    ||	/||ˈfɪt||/	вместить; соответствовать	You could fit a giant penguin over there.
+adv. ||ever||	/||ˈɛvɝ||/	когда-либо	Nora raised the kid without ever telling me.
 
-adj. ||dumb||	/||ˈdʌm||/	тупой	It's just some dumb school contest.
+phr. ||kind of||		в некотором роде; в какой-то степени; 	It's kind of a risky joke, Tag.
+
+verb ||ask||	/||ˈæsk||/	спрашивать, просить	Well, just ask Mona to give it back.

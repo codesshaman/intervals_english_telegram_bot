@@ -1,24 +1,24 @@
 
-Учим #Карточку_64
+Учим #Карточку_7
 
 RUS -> ENG
 
-verb ||accept     ||	/||æˈksɛpt||/	принимать	I'm not allowed to accept tips, buddy.
+verb ||believe||	/||bɪˈliv||/	верить	Believe me, it'll never happen again.
 
-verb ||divorce    ||	/||dɪˈvɔrs||/	развестись	Hey, divorced men are not bad men.
+verb ||find||	/||ˈfaɪnd||/	находить	I think you'll find very exciting.
 
-adj. ||personal   ||	/||ˈpɝsɪnəl||/	личный; персональный	Major personal crisis averted.
+verb ||work||	/||ˈwɝk||/	работать	I got to go and work.
 
-phr. ||fall asleep||		уснуть	I fell asleep half way through.
+adv. ||actually||	/||ˈæˌktʃuəli||/	на самом деле	Actually, you look kinda nice.
 
-noun ||assistant||	/||əˈsɪstənt||/	помощник	My promotion to assistant regional manager.
+adv. ||even||	/||ˈivɪn||/	даже	She even paid for drinks. Sort of.
 
-noun ||bet        ||	/||ˈbɛt||/     	ставка	The ultimate wager slap bet.
+verb ||hear||	/||ˈhir||/	слышать	I've never heard him make that sound.
 
-noun ||duck       ||	/||ˈdʌk||/     	утка	I thought the duck turned out well.
+noun ||girl||	/||ˈgɝl||/	девочка; девушка	Little girl misses her cat.
 
-adv. ||upstairs||	/||əˈpstɛrz||/	наверх(у)	They've got a dance floor upstairs.
+adv. ||ever||	/||ˈɛvɝ||/	когда-либо	Nora raised the kid without ever telling me.
 
-noun ||tree       ||	/||ˈtri||/     	дерево	I think the tree looks nice.
+phr. ||kind of||		в некотором роде; в какой-то степени; 	It's kind of a risky joke, Tag.
 
-noun ||massage    ||	/||məˈsɑʒ||/	массаж	I give people massages and stuff.
+verb ||ask||	/||ˈæsk||/	спрашивать, просить	Well, just ask Mona to give it back.

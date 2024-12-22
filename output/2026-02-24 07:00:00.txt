@@ -1,24 +1,25 @@
+Учим #Карточку_104
 
-Учим #Карточку_206
+ENG -> RUS
 
-RUS -> ENG
+verb ||complicate||	/||ˈkɑmpləˌkeɪt||/	усложнять	It'll be way too complicated.
 
-noun ||traffic    ||	/||ˈtræfɪk||/	трафик	She's stuck in terrible traffic.
+p.v. ||calm down||		успокаивать(ся)	Calm down, we got time.
 
-noun ||share      ||	/||ˈʃɛr||/     	доля	As someone who's seen more than her fair share of bad beef, I'll tell you.
+noun ||bell||	/||ˈbɛl||/	звонок	That bell stopped ringing for me years ago.
 
-noun ||discount||	/||dɪˈskaʊnt||/	скидка	We can offer our biggest discounts on 30% recycled, and ultra premium laser.
+phr. ||instead of||		вместо	Socks instead of rags.
 
-verb ||lean       ||	/||ˈlin||/     	наклонять(ся); прислонять(ся)	Here, lean your head back.
+phr. ||no longer||		больше не	No. - What? - You no longer get an allowance.
 
-verb ||disturb    ||	/||dɪˈstɝb||/	беспокоить	Later that day, Edie Britt witnessed something disturbing.
+noun ||stranger||	/||ˈstreɪndʒɝ||/	незнакомец	He viciously screamed at total strangers.
 
-noun ||edge       ||	/||ˈɛdʒ||/     	край, кромка	They have really sharp edges.
+adj  ||fake||	/||ˈfeɪk||/	1.	поддельный  1.	It's a fake wheel, dummy.
+noun ||fake||	/||ˈfeɪk||/	2.	подделка    2.	It’s just a fake.
+verb ||fake||	/||ˈfeɪk||/	3.	подделать	3.	People fake abductions all the time.
 
-verb ||represent||	/||ˌrɛprəˈzɛnt||/	представлять	My firm represents the band.
+adj. ||fresh||	/||ˈfrɛʃ||/	свежий	I just want some fresh air.
 
-noun ||lipstick||	/||ˈlɪˌpstɪk||/   	губная помада	You have lipstick right here.
+verb ||swing||	/||ˈswɪŋ||/	качать	Swing low, sweet chariots.
 
-noun ||speed      ||	/||ˈspid||/    	скорость	A ten speed bike.
-
-p.v. ||beat up||		избивать	I've beat up black belts.
+adv. ||quickly||	/||ˈkwɪkli||/	быстро	I think I judged her too quickly.

@@ -1,24 +1,26 @@
 
-Учим #Карточку_123
+Учим #Карточку_21
 
 RUS -> ENG
 
-noun ||tie    ||	/||ˈtaɪ||/	галстук	We got ties here, people.
+noun ||deal||	/||ˈdil||/	сделка	You got yourself a very weird deal.
 
-verb ||occur||	/||əˈkɝ||/	приходить на ум; происходить	Apparently, that strategy had never occurred to him.
+noun ||father||	/||ˈfɑðɝ||/	отец	We have located the biological father.
 
-noun ||report||	/||riˈpɔrt||/	отчёт	Pull all the missing persons reports.
+noun ||child||	/||ˈtʃaɪld||/	ребёнок	The Big Book of Children's Names.
 
-noun ||practice||	/||ˈpræktɪs||/	практика	I just need a little more practice.
+verb ||sound||	/||ˈsaʊnd||/	звучать	I know it sounds crazy, but still.
 
-noun ||pocket||	/||ˈpɑkət||/	карман	My phone keeps pocket dialing.
+verb ||kiss||	/||ˈkɪs||/	целовать	I just really wanted to kiss you.
 
-noun ||towel||	/||ˈtaʊəl||/	полотенце	The towel's very clean.
+verb ||spend||	/||ˈspɛnd||/	тратить	She spent a year in Antarctica studying penguins.
 
-verb ||grab||	/||ˈgræb||/	захватить	Let me just grab my coat.
+p.v. ||get out||		уходить; выходить; вынимать	Okay, guys, get out of there.
 
-adj. ||attractive||	/||əˈtræktɪv||/	привлекательный	Yeah, she seemed cool, attractive.
+noun ||other||	/||ˈʌðɝ||/	другой	Let the others grow old, not me.
 
-noun ||nap    ||	/||ˈnæp||/	короткий сон	I used their nap times to cry.
+verb ||run||	/||ˈrʌn||/	бежать; управлять	Wow, so you run your own restaurant!
 
-adj. ||capable||	/||ˈkeɪpəbəl||/	способный	No. You both are equally capable.
+verb    noun ||change||	/||ˈtʃeɪndʒ||/	1. менять, изменяться; 	1.	People wondered if Danny would ever change.
+
+verb    noun ||change||	/||ˈtʃeɪndʒ||/	2. изменение	  2.	Listen, sudden change of plans.

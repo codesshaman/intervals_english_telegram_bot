@@ -1,24 +1,26 @@
 
-Учим #Карточку_227
+Учим #Карточку_125
 
 RUS -> ENG
 
-adj. ||fellow     ||	/||ˈfɛloʊ||/	коллега, собрат, единомышленник	I advised a fellow actor to play a role... homosexually.
+noun ||schedule||	/||ˈskɛdʒʊl, ˈskɛdʒul||/	график	Plus, it totally ruined my schedule.
 
-noun ||mission    ||	/||ˈmɪʃən||/	миссия	Actually, I'm sending Ryan on a top secret mission.
+noun ||garbage    ||	/||ˈgɑrbɪdʒ||/	мусор	I can't find garbage bags.
 
-noun ||strategy||	/||ˈstrætədʒi||/	стратегия	I'm trying a new strategy.
+noun ||champagne||	/||ʃæˈmpeɪn||/	шампанское	At least we get free champagne! - And cake.
 
-noun ||vow        ||	/||ˈvaʊ||/     	обет	The vow is simple, really.
+noun ||science    ||	/||ˈsaɪəns||/	наука	Maybe fight over the science section.
 
-noun ||staff      ||	/||ˈstæf||/    	персонал	Lynette, staff meeting, now.
+adj. ||tight      ||	/||ˈtaɪt||/    	тугой; тесный, плотный	Exactly, plus, we're on a tight schedule.
 
-noun ||motel      ||	/||moʊˈtɛl||/	мотель	Well, then, have fun at the motel.
+noun ||breath     ||	/||ˈbrɛθ||/    	дыхание	Take a couple deep breaths.
 
-noun ||arrest     ||	/||ɝˈɛst||/    	арест	Suspect is in violation of house arrest.
+noun ||block      ||	/||ˈblɑk||/    	квартал, блок	It's just a couple blocks away.
 
-verb ||choke      ||	/||ˈtʃoʊk||/	подавиться; душить	Anyway, Julie's totally gonna choke.
+phr || ||	check out	    	 1. «зацени»	   1. Check out my new catering stuff. (из отеля)
 
-noun ||mint       ||	/||ˈmɪnt||/    	мята	A box of Thin Mints and some Tagalongs.
+p.v. ||check out||	     	 2. выписаться 	   2. Ross has never checked out of a room a minute before he had to.
 
-noun ||silver     ||	/||ˈsɪlvɝ||/	серебро	Sometimes dark clouds have silver linings.
+verb ||rip        ||	/||ˈrɪp||/     	сорвать; порваться	And then Zana just let one rip.
+
+noun ||project    ||	/||ˈprɑdʒɛkt||/	проект	This project is getting harder and harder.

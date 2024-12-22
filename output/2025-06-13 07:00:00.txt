@@ -1,24 +1,26 @@
 
-Учим #Карточку_78
+Учим #Карточку_21
 
 RUS -> ENG
 
-noun ||branch||	/||ˈbræntʃ||/	филиал	I'm just checking on the other branches.
+noun ||deal||	/||ˈdil||/	сделка	You got yourself a very weird deal.
 
-noun ||soul||	/||ˈsoʊl||/   	душа	Sprinkles never hurt a soul.
+noun ||father||	/||ˈfɑðɝ||/	отец	We have located the biological father.
 
-adj. ||alive||	/||əˈlaɪv||/	живой	I'm the luckiest girl alive.
+noun ||child||	/||ˈtʃaɪld||/	ребёнок	The Big Book of Children's Names.
 
-verb ||assume||	/||əˈsum||/ 	предполагать	I just assumed you were dead inside.
+verb ||sound||	/||ˈsaʊnd||/	звучать	I know it sounds crazy, but still.
 
-noun ||arm    ||	/||ˈɑrm||/ 	   рука	I need your skinny little arms.
+verb ||kiss||	/||ˈkɪs||/	целовать	I just really wanted to kiss you.
 
-noun ||honour||	/||ˈɑnɝ||/  	честь	We want bail denied, Your Honor.
+verb ||spend||	/||ˈspɛnd||/	тратить	She spent a year in Antarctica studying penguins.
 
-adj. ||slow||	/||ˈsloʊ||/   	медленный	Let me slow down a little bit.
+p.v. ||get out||		уходить; выходить; вынимать	Okay, guys, get out of there.
 
-noun ||affair||	/||əˈfɛr||/ 	дело; событие; связь на стороне 	Judy Pope's husband has an affair, nobody finds out.
+noun ||other||	/||ˈʌðɝ||/	другой	Let the others grow old, not me.
 
-adj. ||dirty||	/||ˈdɝti||/  	грязный	Oh, baby My sweet baby That's Dirty Dancing.
+verb ||run||	/||ˈrʌn||/	бежать; управлять	Wow, so you run your own restaurant!
 
-adv. ||still||	/||ˈstɪl||/  	все равно	The guy still won't eat a damn pancake.
+verb    noun ||change||	/||ˈtʃeɪndʒ||/	1. менять, изменяться; 	1.	People wondered if Danny would ever change.
+
+verb    noun ||change||	/||ˈtʃeɪndʒ||/	2. изменение	  2.	Listen, sudden change of plans.

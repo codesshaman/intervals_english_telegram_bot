@@ -1,24 +1,24 @@
 
-Учим #Карточку_237
+Учим #Карточку_135
 
 RUS -> ENG
 
-noun ||crew       ||	/||ˈkru||/     	экипаж, команда	Oh, I'm just part of the relief crew.
+verb ||abandon    ||	/||əˈbændən||/	бросать; отказываться	Goodbye to those we thought would never abandon us.
 
-verb ||bid        ||	/||ˈbɪd||/     	предлагать цену; приказывать	Keep bidding.
+verb ||hurry (up)||	/||ˈhɝi||/  	спешить	Please hurry, sir.
 
-noun ||celebrity||	/||səˈlɛbrɪti||/	знаменитость	What kind of celebrity? - Not relevant.
+noun ||sun        ||	/||ˈsʌn||/     	солнце	Uh, sun shining, birds chirping.
 
-verb ||chime      ||	/||ˈtʃaɪm||/	звонить, бить (о колоколах, часах)	Let the bells of Dunder-Mifflin chime out your love.
+noun ||puppy      ||	/||ˈpʌpi||/    	щенок	I just found a talking puppy.
 
-noun ||angle      ||	/||ˈæŋgəl||/	угол зрения	Let me come at this from a different angle.
+noun ||waiter     ||	/||ˈweɪtɝ||/	официант	The waiter knows they're robbing us blind.
 
-noun ||diversity||	/||dɪˈvɝsɪti||/	разнообразие	Instead we need to celebrate our diversity.
+adj. ||casual     ||	/||ˈkæʒəwəl||/	случайный; расслабленный	Just keep it casual.
 
-noun ||sprinkle||	/||ˈsprɪŋkəl||/	брызганье, посыпка	Sprinkles never hurt a soul.
+verb ||travel     ||	/||ˈtrævəl||/	путешествовать	I don't have travel insurance.
 
-noun ||gardener||	/||ˈgɑrdənɝ||/	садовник	We got a new gardener today.
+verb ||complain||	/||kəˈmpleɪn||/	жаловаться	You complained that Angela is giving you dirty looks.
 
-noun ||sin        ||	/||ˈsɪn||/     	грех	It's funny you should mention sin.
+verb ||interrupt||	/||ˌɪntɝˈʌpt||/	прерывать	Stop public interrupting me.
 
-verb ||trap       ||	/||ˈtræp||/    	ставить ловушки, капканы	Stegosaurus fell over, trapped a kid.
+noun ||bridesmaid||	/||ˈbraɪˌdzmeɪd||/	подружка невесты	Look, I got a bridesmaid.

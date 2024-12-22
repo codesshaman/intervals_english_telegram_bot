@@ -1,24 +1,26 @@
 
-Учим #Карточку_141
+Учим #Карточку_39
 
 RUS -> ENG
 
-noun ||lord||	/||ˈlɔrd||/   	бог; господин	Oh, just the Lord's work.
+noun ||sound||	/||ˈsaʊnd||/	звук	Do you hear that sound?
 
-noun ||opera||	/||ˈɑprə||/  	опера	Your roommate's a soap opera star.
+verb ||bear||	/||ˈbɛr||/	выносить	Oh, I just cannot bear it.
 
-adj. ||inappropriate||	/||ˌɪnəˈproʊpriɪt||/	неподобающий	Oh, please, - You're acting inappropriate.
+p. v. ||come up||		приближаться; подходить	Okay, three kinds of potatoes coming up.
 
-adj. ||official||	/||əˈfɪʃəl||/	официальный	Phoebe's not an official ball player.
+noun ||body||	/||ˈbɑdi||/	тело	My body always stays cool.
 
-verb ||brunch||	/||ˈbrʌntʃ||/	бранч	Hey, a weird thing happened at brunch.
+noun ||ticket||	/||ˈtɪkət||/	билет	I got celtic tickets on the floor.
 
-noun ||point||	/||ˈpɔɪnt||/	довод, аргумент	Point well taken.
+noun ||surprise||	/||sɝˈpraɪz||/	сюрприз	The surprise is a new swing set.
 
-adj. ||magic||	/||ˈmædʒɪk||/	волшебный	Magic, magic, magic, magic.
+noun ||secret||	/||ˈsikrət ||/	1. секрет; 1.	Married couples can't keep secrets.
 
-noun ||past||	/||ˈpæst||/   	прошлое	Bree felt threatened by the past.
+adj. ||secret||	/||ˈsikrət ||/	    2. секретный, тайный	2.	She's planned this whole secret wedding.
 
-noun ||sugar||	/||ˈʃʊgɝ||/  	сахар	Give me a little sugar.
+noun ||college||	/||ˈkɑlɪdʒ||/	колледж	Call up an old college flame.
 
-noun ||smoke||	/||ˈsmoʊk||/	дым	Stay below the smoke line.
+verb ||smell||	/||ˈsmɛl||/	пахнуть	Of course it smells really bad.
+
+noun ||song||	/||ˈsɔŋ||/	песня	I'm getting really tired of this song, Carlos.

@@ -1,24 +1,27 @@
 
-Учим #Карточку_61
+Учим #Карточку_4
 
 RUS -> ENG
 
-adj. ||tired||	/||ˈtaɪɝd||/	уставший	I’m pretty tired.
+noun ||way||	/||ˈweɪ||/	способ, путь	You have come a long way, baby.
 
-noun ||twin||	/||ˈtwɪn||/   	близнец	I have found my identical hand twin.
+verb ||love||	/||ˈlʌv||/	любить	I used to love to play restaurant.
 
-noun ||flower||	/||ˈflaʊɝ||/	цветок	And calla lilies are my favorite flower.
+adv. ||never||	/||ˈnɛvɝ||/	никогда	Too bad you'll never find out.
 
-noun ||wall||	/||ˈwɔl||/    	стена	Walls are pretty thin, guys.
+verb, noun ||call||	/||ˈkɔl||/	1.	звонить; вызывать; 1.	See, other people call me.
 
-adv. ||late||	/||ˈleɪt||/   	поздно	Too little, too late, Benji.
+verb, noun ||call||	/||ˈkɔl||/	2.	Звонок; решение	  2.	You know, that's really your call.
 
-noun ||mess||	/||ˈmɛs||/    	беспорядок	And whatever other messes need cleaning up.
+phr. ||thank you||		спасибо	Thank you, Mr. Drunken Gambler.
 
-verb ||fix    ||	/||ˈfɪks||/    	исправлять	So just fix whatever she wants fixed.
+verb ||wait||	/||ˈweɪt||/	ждать	Wait, here, let me help you Dwight.
 
-adj. ||horrible||	/||ˈhɔrəbəl||/	ужасный	I'm a horrible, horrible, horrible person.
+verb ||come||	/||ˈkʌm||/	приходить	Okay, all right, come here.
 
-noun ||cab    ||	/||ˈkæb||/ 	   такси	All right, I'll call the cab company.
+adv. ||maybe||	/||ˈmeɪbi||/	может быть	Maybe the pogo stick likes it too.
 
-noun ||finger||	/||ˈfɪŋgɝ||/	палец	Look at those little fingers and toes.
+adv. ||back||	/||ˈbæk||/	назад	Fine, we'll give the money back.
+
+noun ||day||	/||ˈdeɪ||/	день	We use lots of words, every day.
+

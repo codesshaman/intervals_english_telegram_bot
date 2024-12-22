@@ -1,22 +1,24 @@
 
-Учим #Карточку_275
+Учим #Карточку_173
 
 RUS -> ENG
 
-noun ||kingdom    ||	/||ˈkɪŋdəm||/	царство; королевство	Maisy does love to rule her little kingdom.
+noun ||league||	/||ˈlig||/  	лига	Well, I think Brian's a little out of your league.
 
-verb ||define     ||	/||dɪˈfaɪn||/	определять	It's gonna define the skyline of the city.
+noun ||temp||	/||ˈtɛmp||/   	временный сотрудник	Michael's in there right now evaluating the temp.
 
-noun ||coal       ||	/||ˈkoʊl||/    	уголь	It's a industrial coal elevator.
+verb ||refer||	/||rəˈfɝ||/  	сослаться, отправить 	Michael referred me to a male strip club, called Banana Slings.
 
-noun ||ash        ||	/||ˈæʃ||/      	пепел	Lava spewing, hot ash.
+noun ||furniture||	/||ˈfɝnɪtʃɝ||/	мебель	I wanted to make denim furniture.
 
-noun ||thud       ||	/||ˈθʌd||/     	глухой стук	I was making cookies, and I heard the most sickening thud.
+verb ||buzzed||	/||ˈbʌzd||/ 	поддатый	I forgot to tell you the plan for this Saturday. You, me, bar, beers, buzzed.
 
-verb ||rot        ||	/||ˈrɑt||/     	гнить	Rot in hell, devil steed.
+noun ||tail||	/||ˈteɪl||/   	хвост	Grey-brown tufts of fur, a tail.
 
-noun ||tonight    ||	/||təˈnaɪt||/	сегодняшний вечер, наступающая ночь	Tonight's event is to benefit the Boy Scouts of America.
+adj. ||thin||	/||ˈθɪn||/    	тонкий	Walls are pretty thin, guys.
 
-noun ||doorbell||	/||ˈdɔˌrbɛl||/	дверной звонок	Carlos is at work and he doesn't ring the doorbell.
+adv. ||however||	/||ˌhaʊˈɛvɝ||/	тем не менее	The next morning, however, Susan discovered castles.
 
-noun ||fighter    ||	/||ˈfaɪtɝ||/	воин; драчун; истребитель	I come from a long line of fighters.
+adj. ||painful||	/||ˈpeɪnfəl||/	причиняющий боль	Yes, too many painful memories.
+
+adj. ||broken||	/||ˈbroʊkən||/	сломанный	It's all in there, the bruises, contusions, broken wrist.

@@ -1,23 +1,24 @@
-Учим #Карточку_114
 
-ENG -> RUS
+Учим #Карточку_12
 
-noun ||gym    ||	/||ˈdʒɪm||/    	спортзал	Maybe I'll hit the gym.
+RUS -> ENG
 
-verb ||cross||	/||ˈkrɔs||/  	пересечь	You've really crossed a line here.
+verb ||bring||	/||ˈbrɪŋ||/	приносить	Yesterday you brought pictures of the kids.
 
-noun ||meal||	/||ˈmil||/    	прием пищи	I'm making him a very fancy meal.
+adj. ||wrong||	/||ˈrɔŋ||/	неправильный	Please don't take this the wrong way.
 
-noun ||computer||	/||kəˈmpjutɝ||/	компьютер	Busy as a bee, that little computer.
+noun ||love||	/||ˈlʌv||/	любовь	Spoiler alert: the robot falls in love.
 
-adj. ||future||	/||ˈfjutʃɝ||/	будущий	It's an indicator of future mental instability.
+adv. ||else||	/||ˈɛls||/	ещё; кроме	What else did he say about me?
 
-adj. ||professional||	/||prəˈfɛʃənəl||/	профессиональный	Professional ladies, if you know what I mean.
+noun ||money||	/||ˈmʌni||/	деньги	He's making money left and right.
 
-adj. ||annoying||	/||əˈnɔɪ||/	раздражающий	For women of our age, it's just annoying.
+verb ||stay||	/||ˈsteɪ||/	оставаться	I couldn’t stay any longer.
 
-verb ||prefer||	/||prəˈfɝ ||/	предпочитать	Normally I prefer not to get involved.
+verb ||phone||	/||ˈfoʊn||/	звонить по телефону	I think you should definitely phone him.
 
-noun ||ship||	/||ˈʃɪp||/    	корабль	Now, on this ship, it's very easy.
+noun ||work||	/||ˈwɝk||/	работа	I had such a weird day at work.
 
-adv. ||perfectly||	/||ˈpɝfəktli||/	совершенно	You're an adult with perfectly valid opinions.
+adv. ||home||	/||ˈhoʊm||/	домой	Let me just take you home.
+
+noun ||idea||	/||aɪˈdiə||/	идея	Okay, that is a lot of good ideas.

@@ -1,24 +1,26 @@
 
-Учим #Карточку_117
+Учим #Карточку_15
 
 RUS -> ENG
 
-noun ||major||	/||ˈmeɪdʒɝ||/	существенный; основной	Major personal crisis averted.
+verb ||move||	/||ˈmuv||/	двигаться	Let’s keep moving right this way.
 
-noun ||earth||	/||ˈɝθ||/    	земля	Just dropped off the face of the earth.
+verb ||lose||	/||ˈluz||/	терять, проигрывать	I don’t want to lose him.
 
-verb ||commit||	/||kəˈmɪt||/	связать себя обязательствами; совершать	And committing, making sacrifices, it's hard.
+noun ||dad||	/||ˈdæd||/	папа	Dad didn't come home last night.
 
-p.v. ||hook up||		подключать; переспать	Friends hooking up is a bad idea.
+verb, noun ||care||	/||ˈkɛr||/	1. заботиться; 1.	Cookies says someone really cares.
 
-noun ||bastard||	/||ˈbæstɝd||/	ублюдок	I really missed that fat bastard.
+verb, noun ||care||	/||ˈkɛr||/	2. забота	2.	Let me take care of the presentation.
 
-noun ||mix    ||	/||ˈmɪks||/	смесь	My girlfriend made an awesome mix.
+verb ||hate||	/||ˈheɪt||/	ненавидеть	I hate playing three-handed poker.
 
-noun ||file||	/||ˈfaɪl||/	файл; папка; дело	I have another complaint for Jim's permanent file.
+verb ||buy||	/||ˈbaɪ||/	покупать	Buying a new water heater would solve this.
 
-noun ||lighting||	/||ˈlaɪt||/	свет, освещение	You got lighting last time.
+noun ||hand||	/||ˈhænd||/	рука	Maybe I'll play with my left hand.
 
-noun ||belt||	/||ˈbɛlt||/	ремень	I've beat up black belts.
+noun ||game||	/||ˈgeɪm||/	игра	Don't hate the player, hate the game.
 
-noun ||pressure||	/||ˈprɛʃɝ||/	давление	It sounds kinda like peer pressure.
+noun ||mr.||	/||ˈmɪstər||/	мистер	Mr. Ford is a very good customer.
+
+verb ||wear||	/||ˈwɛr||/	носить	You never even wear that T-shirt.

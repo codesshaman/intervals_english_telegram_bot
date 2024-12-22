@@ -1,24 +1,26 @@
 
-Учим #Карточку_226
+Учим #Карточку_124
 
 RUS -> ENG
 
-adj. ||thirsty    ||	/||ˈθɝsti||/	жаждущий	What happened? - I got thirsty.
+p.v. ||look forward||		смотреть вперёд; предвкушать; с нетерпением ожидать	Actually look forward to performance review.
 
-adj. ||tragic     ||	/||ˈtrædʒɪk||/	трагический	Thousands died in a tragic avalanche today.
+noun ||punch||	/||ˈpʌntʃ||/	удар	No, I'd block your first punch, rending ineffective.
 
-noun ||coworker||	/||ˈkoʊˈwɝkɝ||/	коллега	I regret my actions, I regret offending my coworkers.
+adj. ||obvious||	/||ˈɑbviəs||/	очевидный	Yeah, obvious beauty's the worst.
 
-adj  ||tan        ||	/||ˈtæn||/     	загорелый	Tall and tan, and young and lovely
+noun ||island||	/||ˈaɪlənd||/	остров	Yeah, we're just here, we're playing desert island.
 
-noun ||statement||	/||ˈsteɪtmənt||/	заявление	I retract my earlier statement.
+noun ||rain||	/||ˈreɪn||/	1.	дождь 	1.	I think I'm gonna go wander out in the rain for a while.
 
-noun ||batch      ||	/||ˈbætʃ||/    	партия	I made a batch and I froze it.
+verb ||rain||	/||ˈreɪn||/	2.	идти, литься (о дожде) 	2.	I think it might be raining.
 
-p.v. ||meet with      ||	       	встретиться с; получить ответную реакцию	A gesture that was met with measured enthusiasm.
+noun ||contact||	/||ˈkɑˌntækt||/	контакт	We've lost visual contact with the suspect.
 
-verb ||accomplish||	/||əˈkɑmplɪʃ||/	осуществлять, выполнять, завершать	Got a lot accomplished.
+adj. ||public||	/||ˈpʌblɪk||/	общественный	Ah, public figure, confidentiality agreement.
 
-noun ||estate     ||	/||ɛˈsteɪt||/	имущество	No. I don't just sell real estate.
+noun ||winner||	/||ˈwɪnɝ||/ 	победитель	And the winners of this year's costume contest are.
 
-noun ||pay        ||	/||ˈpeɪ||/     	плата	Your pay is just different.
+adv. ||little||	/||ˈlɪtəl||/	немного	Okay, little too far.
+
+noun ||bear||	/||ˈbɛr||/    	медведь	You know, like a little fuzzy bear.

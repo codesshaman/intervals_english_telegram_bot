@@ -1,22 +1,24 @@
 
-Учим #Карточку_272
+Учим #Карточку_182
 
 RUS -> ENG
 
-noun ||luggage    ||	/||ˈlʌgədʒ||/	багаж	Sam, get my luggage.
+noun ||diamond    ||	/||ˈdaɪmənd||/	алмаз	And I want a bigger diamond than Dolores got.
 
-noun ||wire       ||	/||ˈwaɪɝ||/    	провод	The wires have come loose in your head.
+noun ||pharmacist||	/||ˈfɑrməsɪst||/	фармацевт, аптекарь	You remember Mr. Williams, our pharmacist? - Hey there.
 
-p.v. ||care for||		нравиться; заботиться, любить	I don't really care for your tone.
+noun ||napkin     ||	/||ˈnæpkɪn||/	салфетка	The good china, freshly pressed napkins, flowers from the garden.
 
-verb ||pierce     ||	/||ˈpɪrs||/    	прокалывать; просверливать	I got my ear pierced.
+noun ||mug        ||	/||ˈmʌg||/     	кружка	Plus free mug.
 
-noun ||tunnel     ||	/||ˈtʌnəl||/	туннель	Maybe I'll make a weekend out of it and I'll call my bridge and tunnel girl tonight.
+noun ||blanket    ||	/||ˈblæŋkət||/	одеяло	Stupid corporate wet blankets.
 
-verb ||declare    ||	/||dɪˈklɛr||/	объявлять	Creed Bratton has never declared bankruptcy.
+noun ||tux        ||	/||ˈtʌks||/    	смокинг	I'm wearing the famous tux.
 
-noun ||thunder    ||	/||ˈθʌndɝ||/	гром	See, you kind of stole my thunder.
+p. v. ||look up||	      	искать; улучшаться (о делах)	Things are looking up already.
 
-noun ||convention||	/||kəˈnvɛnʃən||/	конвенция	Speaker at the sales convention.
+noun ||channel    ||	/||ˈtʃænəl||/	канал	Hey Monica, why are we watching the business channel?
 
-noun ||warning    ||	/||ˈwɔrnɪŋ||/	предупреждение	Well, then, fair warning: I'm going to say no.
+noun ||management||	/||ˈmænədʒmənt||/	управление	I absolutely have anger management issues.
+
+verb ||defend     ||	/||dɪˈfɛnd||/	защищать	I was just defending my boy here.

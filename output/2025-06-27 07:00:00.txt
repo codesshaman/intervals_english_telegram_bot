@@ -1,24 +1,25 @@
 
-Учим #Карточку_85
+Учим #Карточку_28
 
 RUS -> ENG
 
-noun ||bra    ||	/||ˈbrɑ||/	бюстгальтер	Just sign right on the bra.
 
-verb ||visit||	/||ˈvɪzɪt||/	посещать	My sister Katie is coming to visit next weekend.
+noun ||parent||	/||ˈpɛrənt||/	родитель	Emily's parents got married here.
 
-verb ||smile||	/||ˈsmaɪl||/	улыбаться	Okay, everybody just keep smiling.
+noun ||son||	/||ˈsʌn||/	сын	I came home to find my son.
 
-noun ||nurse||	/||ˈnɝs||/	медсестра	Nurse With Tray doesn't know Joey.
+noun ||news||	/||ˈnjuz||/	новости	I'm afraid I've got some bad news.
 
-verb ||discuss||	/||dɪˈskʌs||/	обсуждать	I'd like to discuss country club membership.
+noun ||bed||	/||ˈbɛd||/	кровать	Honey, you made the bed again.
 
-verb ||embarrass||	/||ɪˈmbɛrəs||/	смущать	I don't know, I just felt embarrassed.
+verb ||promise||	/||ˈprɑməs||/	обещать	Carlos, you promised you'd come home today.
 
-noun ||fish||	/||ˈfɪʃ||/	рыба	Kittens, fish babies.
+adj. ||young||	/||ˈjʌŋ||/	молодой	Nice to meet you, young man.
 
-noun ||waitress||	/||ˈweɪtrəs||/	официантка	She's even got waitress experience.
+noun ||back||	/||ˈbæk||/	спина	Can you give me a back rub?
 
-verb ||stare||	/||ˈstɛr||/	пристально смотреть	Get those big, baleful, eyes staring at me.
+verb ||drive||	/||ˈdraɪv||/	ездить	Were you going to drive there?
 
-noun ||issue||	/||ˈɪʃu||/	вопрос, проблема	He's specializes in free speech issues.
+noun ||book||	/||ˈbʊk||/	книга	She's doing a book signing right now.
+
+noun ||paper||	/||ˈpeɪpɝ||/	бумага; газета;  документ	I found your old condo closing papers.

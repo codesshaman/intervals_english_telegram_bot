@@ -1,22 +1,24 @@
 
-Учим #Карточку_274
+Учим #Карточку_184
 
 RUS -> ENG
 
-adj. ||recent     ||	/||ˈrisənt||/	недавний	According to recent findings.
+noun ||basement||	/||ˈbeɪsmənt||/	подвал	Back to your parents' basement.
 
-adv. ||proudly    ||	/||ˈpraʊdli||/	гордо	You say that proudly!
+noun ||trust      ||	/||ˈtrʌst||/	доверие	Our relationship is built on mutual trust.
 
-noun ||legend     ||	/||ˈlɛdʒənd||/	легенда	Well, this jerk was Hammond Druthers, a legend in the architecture community.
+noun ||duty       ||	/||ˈduti||/	долг	I was just there for jury duty.
 
-noun ||forgiveness||	/||fɝˈgɪvnəs||/	прощение	You want my forgiveness, you got it.
+noun ||strength||	/||ˈstrɛŋkθ||/	сила; прочность	Lord, beer me strength.
 
-noun ||online     ||	/||ˈɔˌnlaɪn||/	онлайн	You spend most of the day online shopping.
+p.v. ||hold up||		держаться; останавливать	I believe I hold up very well to even severe scrutiny.
 
-noun ||youth      ||	/||ˈjuθ||/     	юность	I did the youth beauty pageant circuit.
+adj. ||mental     ||	/||ˈmɛntəl||/	ментальный, умственный	It's an indicator of future mental instability.
 
-verb ||withdraw||	/||wɪˈðdrɔ||/	выводить; отказываться от So, I respectfully withdraw my name from участия; снимать (деньги) consideration.
+adj. ||general    ||	/||ˈdʒɛnɝəl||/	общий	They still want me for General Hospital.
 
-verb ||gamble     ||	/||ˈgæmbəl||/	играть в азартные игры	Had a small gambling problem.
+noun ||golf       ||	/||ˈgɑlf||/    	гольф	They play golf together.
 
-noun ||return     ||	/||rɪˈtɝn||/	возвращение	Everyone on Wisteria Lane is praying for your sister's safe return.
+noun ||grandfather||	/||ˈgræˌndfɑðɝ||/	дед	This happened when my grandfather died.
+
+noun ||salmon     ||	/||ˈsæmən||/	лосось	Stay clear of the salmon mousse.

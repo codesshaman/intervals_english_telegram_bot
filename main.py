@@ -39,7 +39,7 @@ def send_messages_from_directory():
     """Получает файлы из директории и отправляет их содержимое как сообщения."""
     # Путь к директории
     directory = input("Введите путь к директории (по умолчанию ./.msgs): ").strip() or "./.msgs"
-    
+
     if not os.path.exists(directory):
         print(f"Директория '{directory}' не найдена.")
         return
@@ -50,7 +50,7 @@ def send_messages_from_directory():
         for file_name in os.listdir(directory)
         if os.path.isfile(os.path.join(directory, file_name))
     ]
-    
+
     if not file_paths:
         print(f"В директории '{directory}' нет файлов.")
         return

@@ -1,23 +1,24 @@
-Учим #Карточку_100
 
-ENG -> RUS
+Учим #Карточку_43
 
-verb ||feed||	/||ˈfid||/	кормить	Oops! - Try feeding her again.
+RUS -> ENG
 
-noun ||market||	/||ˈmɑrkət||/	рынок	I'm so sick of the meat market scene.
+noun ||seat||	/||ˈsit||/	сиденье	Wait, this seat is really uncomfortable.
 
-noun ||focus||	/||ˈfoʊkəs||/	фокус, внимание	We'll just shift the focus to antiquing.
+noun ||sense||	/||ˈsɛns||/	смысл	You know, it just makes no sense.
 
-verb ||stuff||	/||ˈstʌf||/	запихивать; набивать	Her body had been stuffed inside a toy chest.
+noun ||weekend||	/||ˈwiˌkɛnd||/	выходные	He’ll spend a whole weekend with the future in-laws.
 
-noun ||oven||	/||ˈʌvən||/	печь	I'll take the oven mitt.
+adj. ||able||	/||ˈeɪbəl||/	способный	Are you ashamed of not being able to throw dinner parties.
 
-noun ||form||	/||ˈfɔrm||/	форма	Imitation is the most sincere form of flattery.
+adv. ||someone||	/||ˈsʌˌmwʌn||/	кто-нибудь	I'll be sure someone returns your call.
 
-phr. ||as well||		также	Might as well just go home.
+verb ||miss||	/||ˈmɪs||/	пропустить; скучать 	Cause that's kinda hard to miss.
 
-verb ||waste||	/||ˈweɪst||/	тратить	I am too busy to waste my time.
+noun ||ball||	/||ˈbɔl||/	мяч	Druthers just thinks someone stole his ball.
 
-verb ||pop    ||	/||ˈpɑp||/	хлопать, выстреливать (о пробке)	Please stop popping my cast.
+verb ||quit||	/||ˈkwɪt||/	покидать; увольняться	You know, maybe I should just quit.
 
-adv. ||honestly||	/||ˈɑnəstli||/	честно	I honestly never expected this.
+noun ||clothes||	/||ˈkloʊðz||/	одежда	Put your clothes on right now.
+
+noun ||group||	/||ˈgrup||/	группа	A group of people who work together.

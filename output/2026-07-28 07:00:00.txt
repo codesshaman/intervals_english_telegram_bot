@@ -1,22 +1,24 @@
 
-Учим #Карточку_271
+Учим #Карточку_181
 
 RUS -> ENG
 
-adj. ||silent||	/||ˈsaɪlənt||/	тихий	Honey, please don't give me the silent treatment.
+noun ||second     ||	/||ˈsɛkənd||/	секунда	Wait just one more second.
 
-noun ||cage||	/||ˈkeɪdʒ||/	клетка	See, that cage represents your commitment.
+noun ||clown      ||	/||ˈklaʊn||/	клоун	Okay, and this is Funny Clown.
 
-noun ||maker||	/||ˈmeɪkɝ||/	производитель	I just happen to have my label maker.
+phr  ||get pissed     ||	       	разозлиться, взбеситься	The moms who followed the rules would get pissed.
 
-noun ||tragedy||	/||ˈtrædʒədi||/	трагедия	And fresh tragedies had occurred.
+noun ||video      ||	/||ˈvɪdioʊ||/	видео	Then we watched a medical video.
 
-noun ||bakery||	/||ˈbeɪkɝi||/	пекарня	Or a bakery delivery person.
+adj. ||offensive||	/||əˈfɛnsɪv||/	оскорбительный, обидный	It was offensive, and lame, so double offensive.
 
-verb ||handle||	/||ˈhændəl||/	справиться; заниматься	I couldn't handle the pressure and I snapped.
+noun ||policy     ||	/||ˈpɑləsi||/	политика; правила	Barcliff maintains a strict "no blame" policy.
 
-verb ||challenge||	/||ˈtʃæləndʒ||/	оспаривать; бросать вызов	Not to challenge a two-time state science fair almost-champion.
+noun ||t-shirt    ||	/||ˈtiˌsɝt||/	футболка	You never even wear that T-shirt.
 
-noun ||pepper||	/||ˈpɛpɝ||/	перец	Okay, so then play for some pepper.
+p.v. ||come off       ||	       	отрываться; отделяться; сходить	Okay, the mole came off.
 
-noun ||umbrella||	/||əˈmbrɛlə||/	зонт	She's easy to spot she's got a pink umbrella.
+adj. ||brilliant||	/||ˈbrɪljənt||/	блестящий	You're a very wise and brilliant man.
+
+noun ||percent    ||	/||pɝˈsɛnt||/	процент	Twenty percent is a pretty generous tip.

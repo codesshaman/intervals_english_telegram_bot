@@ -1,23 +1,24 @@
-Учим #Карточку_110
 
-ENG -> RUS
+Учим #Карточку_8
 
-phr. ||at first||		сначала	Of course, everything seemed quite normal at first.
+RUS -> ENG
 
-phr. ||smoke pot||		курить травку	Ross smoked pot in college.
+noun ||god||	/||ˈgɑd||/	бог	Maybe believing in god was a mistake.
 
-noun ||award||	/||əˈwɔrd||/	награда	I also get to present an award.
+noun ||year||	/||ˈjɪr||/	год	I met him last year.
 
-phr. ||soap opera||		мыльная опера	It was just a dumb soap opera.
+verb ||stop||	/||ˈstɑp||/	прекращать, останавливаться	Stop it, stop it right now.
 
-noun ||director||	/||dɝˈɛktɝ||/	директор; режиссер	The casting director doesn't talk to friends.
+verb ||keep||	/||ˈkip||/	держать	This'll keep the crab dip warm.
 
-noun ||email||	/||iˈmeɪl||/	электронная почта; электронное письмо	I've got to stop making jokes in e-mails.
+verb ||start||	/||ˈstɑrt||/	начинать	Possibly, starting right now.
 
-adj. ||rough||	/||ˈrʌf||/	грубый; трудный	Look, most relationships have their rough patches.
+noun ||life||	/||ˈlaɪf||/	жизнь	Good luck fixing your life.
 
-verb ||bite||	/||ˈbaɪt||/	кусать	But, baby, you love biting your nails.
+verb ||play||	/||ˈpleɪ||/	играть	I don't even remember who played.
 
-noun ||smile||	/||ˈsmaɪl||/	улыбка	Nice smile, good dresser.
+verb ||marry||	/||ˈmɛri||/	вступать в брак	Um, actually, I'm getting married again.
 
-noun ||theory||	/||ˈθɪri||/	теория	Kind of kills your whole "Unbreakable" theory.
+verb ||put||	/||ˈpʊt||/	класть	Where should I put the clothes?
+
+noun ||kid||	/||ˈkɪd||/	ребёнок	Some kids dream of playing baseball.

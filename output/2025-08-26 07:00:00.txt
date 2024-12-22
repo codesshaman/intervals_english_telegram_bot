@@ -1,24 +1,24 @@
 
-Учим #Карточку_115
+Учим #Карточку_13
 
 RUS -> ENG
 
-noun ||bus    ||	/||ˈbʌs||/     	автобус	Never even saw the bus.
+noun ||look||	/||ˈlʊk||/	взгляд	Oh, take a look at this page!
 
-noun ||player||	/||ˈpleɪɝ||/	игрок	They let the players run the team.
+verb ||laugh||	/||ˈlæf||/	смеяться	Laugh like I said something really funny.
 
-noun ||sleep||	/||ˈslip||/  	сон	My sleep cycle's totally out of whack.
+adj. ||old    ||	/||ˈoʊld||/	старый	Call up an old college flame.
 
-noun ||gold||	/||ˈgoʊld||/	золото	I didn't push gold fine.
+adj. ||funny||	/||ˈfʌni||/	смешной	It just got funny again.
 
-adv. ||everywhere||	/||ˈɛvriˌwɛr||/	везде	These little bastards are everywhere.
+adj. ||crazy||	/||ˈkreɪzi||/	сумасшедший	She did some terrible, crazy, selfish stuff.
 
-noun ||script||	/||ˈskrɪpt||/	сценарий	I just bring the scripts.
+noun ||minute||	/||ˈmɪnət||/	минута	Doctor says any minute now.
 
-noun ||drawer||	/||ˈdrɔr||/ 	выдвижной ящик	Those drawers are filled with Jane's things.
+noun ||sex    ||	/||ˈsɛks||/	секс	Sometimes teenagers use it for sex.
 
-verb ||shake||	/||ˈʃeɪk||/  	трясти	Shake well, then sleep with.
+noun ||house||	/||ˈhaʊs||/	дом	I put security lights on my house.
 
-noun ||photo||	/||ˈfoʊˌtoʊ||/	фото	Um, try ripping up old photos.
+noun ||boy    ||	/||ˈbɔɪ||/	мальчик	All right, bring it home, boys.
 
-verb ||race||	/||ˈreɪs||/   	гонять	I don't race cars or make popcorn.
+phr. ||of course||		конечно	Well, I mean, sure, of course.

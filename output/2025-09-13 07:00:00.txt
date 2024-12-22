@@ -1,26 +1,24 @@
 
-Учим #Карточку_124
+Учим #Карточку_22
 
 RUS -> ENG
 
-p.v. ||look forward||		смотреть вперёд; предвкушать; с нетерпением ожидать	Actually look forward to performance review.
+noun ||world||	/||ˈwɝld||/	мир	The world is filled with good fathers.
 
-noun ||punch||	/||ˈpʌntʃ||/	удар	No, I'd block your first punch, rending ineffective.
+adj. ||sweet||	/||ˈswit||/	сладкий	Isn’t he the sweetest?
 
-adj. ||obvious||	/||ˈɑbviəs||/	очевидный	Yeah, obvious beauty's the worst.
+noun ||wife||	/||ˈwaɪf||/	жена	In real marriages, wives are faithful.
 
-noun ||island||	/||ˈaɪlənd||/	остров	Yeah, we're just here, we're playing desert island.
+noun ||school||	/||ˈskul||/	школа	He never went to school.
 
-noun ||rain||	/||ˈreɪn||/	1.	дождь 	1.	I think I'm gonna go wander out in the rain for a while.
+verb ||throw||	/||ˈθroʊ||/	бросать	You threw broccoli at her.
 
-verb ||rain||	/||ˈreɪn||/	2.	идти, литься (о дожде) 	2.	I think it might be raining.
+noun ||lady||	/||ˈleɪdi||/	леди, девушка	Again, don't blame the pretty lady.
 
-noun ||contact||	/||ˈkɑˌntækt||/	контакт	We've lost visual contact with the suspect.
+noun ||eye||	/||ˈaɪ||/	глаз	Keep an eye on him.
 
-adj. ||public||	/||ˈpʌblɪk||/	общественный	Ah, public figure, confidentiality agreement.
+noun ||anymore||	/||ˌɛniˈmɔr||/	больше, уже	Well, look, it's hardly snowing anymore.
 
-noun ||winner||	/||ˈwɪnɝ||/ 	победитель	And the winners of this year's costume contest are.
+adv. ||ago||	/||əˈgoʊ||/	тому назад	Left us six months ago for Office Depot.
 
-adv. ||little||	/||ˈlɪtəl||/	немного	Okay, little too far.
-
-noun ||bear||	/||ˈbɛr||/    	медведь	You know, like a little fuzzy bear.
+adv. ||exactly||	/||ɪˈgzæktli||/	точно	What happened exactly?

@@ -1,24 +1,26 @@
 
-Учим #Карточку_59
+Учим #Карточку_2
 
 RUS -> ENG
 
-verb ||return||	/||rɪˈtɝn ||/	возвращаться	I'll be sure someone returns your call.
+adj. ||good||	/||ˈgʊd ||/	хороший	A good manager doesn't fire people.
 
-verb ||cover||	/||ˈkʌvɝ||/  	покрывать; выручать	Comewanzaa time, I have got you covered, baby.
+adv. ||now||	    /||ˈnaʊ||/	сейчас	But now I think Ross feels left out.
 
-adv. ||quite||	/||ˈkwaɪt||/	вполне; довольно	It’s quite funny though.
+verb ||make||	/||ˈmeɪk||/	делать; заставлять	I don't race cars or make popcorn.
 
-noun ||leg||	/||ˈlɛg||/	нога	My right leg is two inches shorter.
+noun ||time||	/||ˈtaɪm||/	время	We don’t have time for this.
 
-adj. ||amazing||	/||əˈmeɪziŋ||/	потрясающий	It's so amazing how far technology has come.
+noun ||thing||	/||ˈθɪŋ||/	вещь	I have to pack my things.
 
-noun ||leg||	/||ˈlɛg||/	нога	My right leg is two inches shorter.
+verb ||take||	/||ˈteɪk||/	брать	He takes my books all the time.
 
-verb ||forgive||	/||fɝˈgɪv||/	прощать	I hear "Please forgive me" is popular.
+verb, ||mean||	/||ˈmin||/	1. значить, иметь в виду; 2. 1. You know, I mean, really happy.
 
-noun ||sandwich||	/||ˈsændwɪtʃ||/	сэндвич	Yeah, but sandwich time is right now.
+adj. ||mean||	/||ˈmin||/	2 злобный, подлый	2. Boy, kids are mean when they're hungry.
 
-adj. ||lovely||	/||ˈlʌvli||/	прекрасный	Lovely, lovely, lovely Jan, man.
+adj. ||sorry||	/||ˈsɑri||/	извини(те)	Sorry, just being dramatic.
 
-noun ||kitchen||	/||ˈkɪtʃən||/	кухня	There's a great soup kitchen in downtown Scranton.
+adv. ||there||	/||ˈðɛr||/	там	It's getting kind of rowdy down there.
+
+adj. ||great||	/||ˈgreɪt||/	отличный; потрясающий	Just relax, everything looks great.

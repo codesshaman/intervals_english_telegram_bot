@@ -1,23 +1,24 @@
-Учим #Карточку_105
 
-ENG -> RUS
+Учим #Карточку_3
 
-noun ||kinda||	/||ˈkɪndə||/	как бы, типа (от kind of)	It's just you kinda forgot my birthday.
+RUS -> ENG
 
-noun ||candle||	/||ˈkændəl||/	свеча	The tea candles, the sock monkeys.
+adj. ||right||	/||ˈraɪt||/	правый; правильный; надлежащий	Whoever drew this got it exactly right.
 
-noun ||funeral||	/||ˈfjunɝəl||/	похороны	Make the funeral very romantic.
+adv. ||then||	/||ˈðɛn||/	затем, тогда	Okay, well, then, all right.
 
-verb ||score||	/||ˈskɔr||/	(за)получить, забить гол	And to score Hula Girl's number.
+verb ||talk||	/||ˈtɔk||/	говорить	Two sisters talking about real stuff.
 
-noun ||detail||	/||dɪˈteɪl||/	деталь	Please, honey, leave the details to me.
+verb ||look||	/||ˈlʊk||/	смотреть	I think the tree looks nice.
 
-verb ||own    ||	/||ˈoʊn||/     	владеть	Thanks, I never owned a refrigerator.
+verb ||need||	/||ˈnid||/	нуждаться	We're just gonna need a little time.
 
-adj. ||actual||	/||ˈæktʃəwəl||/	фактический	The chance to solve an actual crime.
+verb ||guy||	/||ˈgaɪ||/	парни, ребята	Okay guys, just relax.
 
-verb ||dare||	/||ˈdɛr||/    	брать на слабо; сметь	Say something bad about butter sauce, I dare you.
+adj. ||little||	/||ˈlɪtəl||/	маленький	Tiny little crack in her pelvis.
 
-noun ||size||	/||ˈsaɪz||/   	размер	I made a man twice my size cry.
+verb ||give||	/||ˈgɪv||/	давать	Okay, just give it a shot.
 
-adv. ||downstairs||	/||ˈdaʊˈnstɛrz||/	внизу, нижний этаж	Christmas party downstairs clears out.
+adv. ||too||	/||ˈtu||/	тоже	Your knuckles are kind of hairy too.
+
+p. v. ||come on||		начинаться; давай!; пошли!	Come on buddy, use words.

@@ -1,23 +1,24 @@
-Учим #Карточку_108
 
-ENG -> RUS
+Учим #Карточку_6
 
-verb ||dream||	/||ˈdrim||/  	мечтать	Some kids dream of being astronauts.
+RUS -> ENG
 
-noun ||fridge||	/||ˈfrɪdʒ||/	холодильник	Okay, you broke my fridge.
+noun ||night||	/||ˈnaɪt||/	ночь	A little bit of Pam, all night lon
 
-adj. ||willing||	/||ˈwɪlɪŋ||/	согласный, желающий	I'm willing to make sacrifices.
+verb ||leave||	/||ˈliv||/	уезжать, оставлять	I want to leave straight from there.
 
-adv. ||perhaps||	/||pɝˈhæps||/	возможно	Perhaps you'd better come inside, boys.
+adv. ||still||	/||ˈstɪl||/	до сих пор; всё ещё	We still love each other very much.
 
-noun ||friendship||	/||ˈfrɛndʃɪp||/	дружба	Yes, unlikely friendships start up every day.
+noun ||guy||	/||ˈgaɪ||/	парень	I mean, there can't be another guy.
 
-verb ||flirt||	/||ˈflɝt||/  	флиртовать	He's totally flirting with you too.
+adv. ||very||	/||ˈvɛri||/	очень	I'm a very, very bad person.
 
-verb ||control||	/||kəˈntroʊl||/	управлять	Rules help control the fun.
+adj. ||fine||	/||ˈfaɪn||/	ладно; хороший, утонченный	Fine, you can do it.
 
-verb ||sneak||	/||ˈsnik||/  	красться	Just kinda snuck up on us.
+noun ||woman||	/||ˈwʊmən||/	женщина	Women live longer than men.
 
-noun ||nanny||	/||ˈnæni||/  	няня	Good nannies are so hard to find.
+adj. ||nice||	/||ˈnaɪs||/	хороший, милый 	So, nice place you got here.
 
-noun ||package||	/||ˈpækədʒ||/	пакет; посылка; комплект	The package says to keep it moving.
+adj. ||new||	/||ˈnju||/	новый	The surprise is a new swing set.
+
+adv. ||again||	/||əˈgɛn||/	снова	Hey, guys, good to see you again.
