@@ -32,5 +32,8 @@ WantedBy=timers.target"
 
     # Перезапускаем systemd для применения изменений
     sudo systemctl daemon-reload
+    sudo systemctl enable english_bot.timer
+    sudo systemctl start english_bot.timer
+    sudo systemctl status english_bot.timer
     echo "Systemd перезагружен."
 fi
