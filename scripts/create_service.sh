@@ -44,5 +44,8 @@ WantedBy=multi-user.target"
 
     # Перезапускаем systemd для применения изменений
     sudo systemctl daemon-reload
+    sudo systemctl enable english_bot.service
+    sudo systemctl start english_bot.service
+    sudo systemctl status english_bot.service
     echo "Systemd перезагружен."
 fi
